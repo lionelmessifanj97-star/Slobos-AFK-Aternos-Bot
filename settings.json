@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Ngo_Dinh_Diem",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "9B_SMP2026.aternos.me",
+    "port": 43301,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "MỸ LÀ TOP 1 TG",
+        "HO CHI MINH CALI",
+        "VN NHU DAU BUOI"
       ]
     },
     "chat-log": true,
